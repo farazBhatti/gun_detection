@@ -5,4 +5,4 @@ This repository provides inference on detecting guns in images and videos. Objec
 
 
 
-LINK TO PRE-TRAINED MODEL:https://drive.google.com/drive/folders/1MtnbWwyFNPTdxZiYoRdNOCKdsg9lst_X?usp=sharing
+LINK TO PRE-TRAINED MODEL:
