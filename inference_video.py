@@ -32,7 +32,7 @@ from utils import visualization_utils as vis_util
 
 # Name of the directory containing the object detection module we're using
 MODEL_NAME = 'inference_graph'
-VIDEO_NAME = './test_videos/arnold_gun_fight.mp4'
+VIDEO_NAME = './'
 
 # Grab path to current working directory
 CWD_PATH = os.getcwd()
