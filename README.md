@@ -1,5 +1,5 @@
 # Gun detection in images
-This repository provides inference on detecting guns in images and videos. Object detection model has been trained on 600 plus images annotated with [LabelImg], for 80k epochs on Tesla K80 GPU provided by Google Colab for free. Training folder contains config file. This code is inspired by [EdjeElectronics]. F-1 score of this model is 0.86.
+This repository provides inference on detecting guns in images and videos. Object detection model has been trained on 600 plus images annotated with [LabelImg], for 80k epochs on Tesla K80 GPU provided by Google Colab for free. Training folder contains config file. This code is inspired by [EdjeElectronics]. F-1 score of this model is 0.91.
 
 Inference:
 
