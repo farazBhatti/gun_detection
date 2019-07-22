@@ -17,7 +17,7 @@ Results on [video]:
 
 
 
-[Download]:https://drive.google.com/open?id=1MtnbWwyFNPTdxZiYoRdNOCKdsg9lst_X
+[Download]:https://drive.google.com/file/d/1xwaN6hdbW6u2f01E95AYq_rX3hdNARCU/view?usp=sharing
 [EdjeElectronics]:https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
 [labelImg]:https://github.com/tzutalin/labelImg
 [video]:https://www.youtube.com/watch?v=B-KTkCme9bU
